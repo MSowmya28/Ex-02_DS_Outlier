@@ -63,12 +63,19 @@ ALGORITHM:
 OUTPUT:
 
 ![output](./outliers1.PNG)
+
 ![output](./outliers2.PNG)
+
 ![output](./outliers3.PNG)
+
 ![output](./outliers4.PNG)
+
 ![output](./outliers5.PNG)
+
 ![output](./outliers6.PNG)
+
 ![output](./outliers7.PNG)
+
 ![output](./outliers8.PNG)
 
 RESULT:
